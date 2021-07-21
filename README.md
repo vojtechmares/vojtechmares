@@ -3,7 +3,7 @@
   <h4 align="center">I'm software && devops engineer, lector and consultant</h4>
 </p>
 
-For a while I have been working as a software engineer, but recently I switched to creating (not only) cloud deterministic infrastructure, using moder day open source tools like Terraform, RKE, Rancher and more... Currently I work for @ondrejsika at his company @sikalabs. We also do a trainigns on open source DevOps tech stack, from development (GitLab), over running and operating your apps on Kubernetes to monitoring your app with Prometheus and Grafana with Loki. Check out my website for more.
+For a while I have been working as a software engineer, but recently I switched to creating (not only) cloud deterministic infrastructure, using moder day open source tools like Terraform, RKE, Rancher and more... Currently I work for [@ondrejsika](https://github.com/ondrejsika) at his company [@sikalabs](https://github.com/sikalabs). We also do a trainigns on open source DevOps tech stack, from development (GitLab), over running and operating your apps on Kubernetes to monitoring your app with Prometheus and Grafana with Loki. Check out my website for more.
 
 We also write some tools ourselfs which we find missing totally or at least some key features which we find useful in todays cloud world.
 
