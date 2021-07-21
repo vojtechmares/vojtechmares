@@ -11,7 +11,7 @@ We also write some tools ourselfs which we find missing totally or at least some
   <img src="https://github-readme-stats.vercel.app/api?username=vojtechmares&count_private=true&show_icons=true" alt="Vojtech Mares's GitHub stats">
   <p align="center">
     You can find me here:<br />
-    <a href="https://github.com/vojtechmares">GitHub</a>&nbsp;<a href="https://twitter.com/vojtechmares_">Twitter</a>&nbps;<a href="https://vojtechmares.com">vojtechmares.com</a>
+    <a href="https://github.com/vojtechmares">GitHub</a>&nbsp;<a href="https://twitter.com/vojtechmares_">Twitter</a>&nbsp;<a href="https://vojtechmares.com">vojtechmares.com</a>
   </p>
 </p>
 <!--
