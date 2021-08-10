@@ -1,6 +1,6 @@
 <p align="center">
   <h1 align="center"> Hi 👋, I am Vojtech Mares</h2>
-  <h4 align="center">I'm software && devops engineer, lector and consultant</h4>
+  <h3 align="center">I'm software && devops engineer, lector and consultant</h3>
 </p>
 
 For a while I have been working as a software engineer, but recently I switched to creating (not only) cloud deterministic infrastructure, using moder day open source tools like Terraform, RKE, Rancher and more... Currently I work for a company [@sikalabs](https://github.com/sikalabs) where we build infrastructure at public, private cloud or on-prem with Kubernetes, monitor everything from A-Z and automate whatever we can. We also do a trainigns on open source DevOps tech stack, from development (GitLab), over running and operating your apps on Kubernetes to monitoring your app with Prometheus and Grafana with Loki. Check out my website for more.
