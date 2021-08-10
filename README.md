@@ -7,11 +7,7 @@ For a while I have been working as a software engineer, but recently I switched 
 
 We also write some tools ourselfs which we find missing totally or at least some key features which we find useful in todays cloud world.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vojtechmares&count_private=true&show_icons=true" alt="Vojtech Mares's GitHub stats">
-</p>  
-
-<h3>This I work with</h3>
+<h3 align="center">Things I work with</h3>
 <p>
   <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
@@ -31,7 +27,7 @@ We also write some tools ourselfs which we find missing totally or at least some
   <img alt="Apache Kafka" src="https://img.shields.io/badge/-Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
   <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=Next.js&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white" />
-  <img alt="DigitalOcean" src="https://img.shields.io/badge/-DigitalOcean-61DAFB?style=flat-square&logo=digitalocean&logoColor=white" />
+  <img alt="DigitalOcean" src="https://img.shields.io/badge/-DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white" />
   <img alt="OpenStack" src="https://img.shields.io/badge/-OpenStack-ED1944?style=flat-square&logo=openstack&logoColor=white" />
   <img alt="Gatsby.js" src="https://img.shields.io/badge/-Gatsby.js-663399?style=flat-square&logo=gatsby&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
@@ -40,8 +36,11 @@ We also write some tools ourselfs which we find missing totally or at least some
 </p>
 
 <p align="center">
-  You can find me here:<br />
-  <a href="https://github.com/vojtechmares">GitHub</a>&nbsp;<a href="https://twitter.com/vojtechmares_">Twitter</a>&nbsp;<a href="https://vojtechmares.com">vojtechmares.com</a>
+  <img src="https://github-readme-stats.vercel.app/api?username=vojtechmares&count_private=true&show_icons=true" alt="Vojtech Mares's GitHub stats">
+  <p align="center">
+    You can find me here:<br />
+    <a href="https://github.com/vojtechmares">GitHub</a>&nbsp;<a href="https://twitter.com/vojtechmares_">Twitter</a>&nbsp;<a href="https://vojtechmares.com">vojtechmares.com</a>
+  </p>
 </p>
 <!--
 **vojtamares/vojtamares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
