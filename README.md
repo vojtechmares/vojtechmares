@@ -15,7 +15,7 @@ We also write some tools ourselfs which we find missing totally or at least some
   <img alt="Grafana" src="https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=Grafana&logoColor=white" />
   <img alt="Loki" src="https://img.shields.io/badge/-Loki-F46800?style=flat-square" />
   <img alt="Golang" src="https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=Go&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=GitlogoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white" />
   <img alt="Terraform" src="https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=Terraform&logoColor=white" />
   <img alt="Gitlab" src="https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=Gitlab&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
