@@ -18,6 +18,7 @@ We also write some tools ourselfs which we find missing totally or at least some
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white" />
   <img alt="Terraform" src="https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=Terraform&logoColor=white" />
   <img alt="Gitlab" src="https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=Gitlab&logoColor=white" />
+  <img alt="Golang" src="https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=go&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Rancher" src="https://img.shields.io/badge/-Rancher-0075A8?style=flat-square&logo=Rancher&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white" />
