@@ -13,34 +13,35 @@ In spare time, I write some open source to make my life (and potentialy yours) e
 
 <h3 align="center">Things I work with on day-to-day basis</h3>
 <p>
-  <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="Prometheus" src="https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
-  <img alt="Grafana" src="https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=Grafana&logoColor=white" />
-  <img alt="Loki" src="https://img.shields.io/badge/-Loki-F46800?style=flat-square" />
-  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white" />
-  <img alt="Terraform" src="https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=Terraform&logoColor=white" />
-  <img alt="Gitlab" src="https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=Gitlab&logoColor=white" />
-  <img alt="Amazon Web Services" src="https://img.shields.io/badge/-Amazon_Web_Services-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white" />
+  <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img alt="Prometheus" src="https://img.shields.io/badge/-Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+  <img alt="Grafana" src="https://img.shields.io/badge/-Grafana-F46800?style=for-the-badge&logo=Grafana&logoColor=white" />
+  <img alt="Loki" src="https://img.shields.io/badge/-Loki-F46800?style=for-the-badge" />
+  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=white" />
+  <img alt="Terraform" src="https://img.shields.io/badge/-Terraform-7B42BC?style=for-the-badge&logo=Terraform&logoColor=white" />
+  <img alt="Gitlab" src="https://img.shields.io/badge/-GitLab-FCA121?style=for-the-badge&logo=Gitlab&logoColor=white" />
+  <img alt="Amazon Web Services" src="https://img.shields.io/badge/-Amazon_Web_Services-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white" />
 </p>
 
 <h3 align="center">Other things I work with</h3>
 <p>
-  <img alt="Golang" src="https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=go&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="Rancher" src="https://img.shields.io/badge/-Rancher-0075A8?style=flat-square&logo=Rancher&logoColor=white" />
-  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" />
-  <img alt="Redis" src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=Redis&logoColor=white" />
-  <img alt="RabbitMQ" src="https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" />
-  <img alt="Apache Kafka" src="https://img.shields.io/badge/-Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
-  <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=Next.js&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white" />
-  <img alt="DigitalOcean" src="https://img.shields.io/badge/-DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white" />
-  <img alt="OpenStack" src="https://img.shields.io/badge/-OpenStack-ED1944?style=flat-square&logo=openstack&logoColor=white" />
-  <img alt="Gatsby.js" src="https://img.shields.io/badge/-Gatsby.js-663399?style=flat-square&logo=gatsby&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
+  <img alt="Golang" src="https://img.shields.io/badge/-Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white" />
+  <img alt="Rancher" src="https://img.shields.io/badge/-Rancher-0075A8?style=for-the-badge&logo=Rancher&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" />
+  <img alt="Redis" src="https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white" />
+  <img alt="RabbitMQ" src="https://img.shields.io/badge/-RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
+  <img alt="Apache Kafka" src="https://img.shields.io/badge/-Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
+  <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
+  <img alt="DigitalOcean" src="https://img.shields.io/badge/-DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" />
+  <img alt="OpenStack" src="https://img.shields.io/badge/-OpenStack-ED1944?style=for-the-badge&logo=openstack&logoColor=white" />
+  <img alt="Gatsby.js" src="https://img.shields.io/badge/-Gatsby.js-663399?style=for-the-badge&logo=gatsby&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img alt="Turborepo" src="https://img.shields.io/badge/-Turborepo-EF4444?style=for-the-badge&logo=turborepo&logoColor=white" />
 </p>
 
 <p align="center">
