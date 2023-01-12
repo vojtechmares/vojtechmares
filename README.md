@@ -3,13 +3,11 @@
   <h3 align="center">I'm software <code>&&</code> devops engineer, lector and consultant</h3>
 </p>
 
-I work as DevOps/MLOps engineer at [GLAMI](https://www.glami.cz/) where I am responsible for operations and improving our AWS infrastructure to keep our real time model serving latency as low as possible. 
+I am DevOps engineer, consultant and lector. I help companies getting started on their DevOps journey with Kubernetes or enhancing current setup. I do not only help with DevOps, but also with architecture decisions, building apps for scalability and reliability.
 
-Prevously I worked for [@sikalabs](https://github.com/sikalabs) where we consult and built on-prem and cloud based infrastructure with Terraform for Kubernetes. I have a great experinece with other tools such as Rancher, RKE, RKE2, k3s and more. 
+I share my knowledge and know-how on my training, come and see for yourself, check out my [website](https://vojtechmares.com/) and [skoleni.io](https://skoleni.io/?utm_source=github&utm_medium=vojtechmares-github-profile&utm_content=link) for more training.
 
-I share my knowledge at my public courses, check out my [website](https://vojtechmares.com/) and [skoleni.io](https://skoleni.io/?utm_source=github&utm_medium=vojtechmares-github-profile&utm_content=link)
-
-In spare time, I write some open source to make my life (and potentialy yours) easier as web developer or SRE.
+In spare time, I write some open source to make my life (and potentialy yours) easier for web developers, SREs and platform engineers.
 
 <h3 align="center">Things I work with on day-to-day basis</h3>
 <p>
