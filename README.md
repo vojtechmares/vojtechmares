@@ -5,7 +5,7 @@
 
 I am DevOps engineer, consultant and lector. I help companies getting started on their DevOps journey with Kubernetes or enhancing current setup. I do not only help with DevOps, but also with architecture decisions, building apps for scalability and reliability.
 
-I share my knowledge and know-how on my training, come and see for yourself, check out my [website](https://vojtechmares.com/) and [skoleni.io](https://skoleni.io/?utm_source=github&utm_medium=vojtechmares-github-profile&utm_content=link) for more training.
+I share my knowledge and know-how on my training, come and see for yourself, check out my [website](https://vojtechmares.com/).
 
 In spare time, I write some open source to make my life (and potentialy yours) easier for web developers, SREs and platform engineers.
 
@@ -47,23 +47,10 @@ In spare time, I write some open source to make my life (and potentialy yours) e
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vojtechmares&count_private=true&show_icons=true" alt="Vojtech Mares's GitHub stats">
+  <img src="https://github-readme-stats-eta-gilt-90.vercel.app/api?username=vojtechmares&show_icons=true&hide_border=true" alt="Vojtech Mares's GitHub stats">
   <p align="center">
     You can find me here:<br />
     <a href="https://github.com/vojtechmares">GitHub</a>&nbsp;<a href="https://twitter.com/vojtechmares_">Twitter</a>&nbsp;<a href="https://vojtechmares.com">vojtechmares.com</a>
   </p>
 </p>
-<!--
-**vojtamares/vojtamares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
