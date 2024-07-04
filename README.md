@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center"> Hi 👋, I am Vojtech Mares</h2>
+  <h1 align="center"> Hi 👋, I am Vojtěch Mareš</h2>
   <h3 align="center">I'm DevOps <code>&&</code> software consultant and lecturer</h3>
 </p>
 
